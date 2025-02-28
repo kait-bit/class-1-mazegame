@@ -1,4 +1,5 @@
 ## Problem Description
+````{verbatim}
 
 ___________E_________
 |       |   |       |
@@ -11,6 +12,7 @@ ___________E_________
 | | | | | | |_| | | |
 |   |   |       |   |
 |___|___|_______|__S|
+````
 
 Create a class MazeGame, which provides the functionality to play a game with the above maze.
 The class should store the maze solution, user moves, and whether or not the user has solved the maze.
